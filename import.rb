@@ -63,11 +63,6 @@ table = "locations"
 file = "locations.csv"
 push(slug, table, headers, file)
 
-headers = ["id", "name", "company_id"].join(',')
-table = "locations"
-file = "locations.csv"
-push(slug, table, headers, file)
-
 headers = ["id", "name", "slug", "origin"].join(',')
 table = 'feature_taxonomies'
 file = 'feature_taxonomies.csv'
