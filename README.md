@@ -29,7 +29,7 @@ Como en una compañía normal, realizar todos los pasos de creación de bucket e
 
 2. Ejecutar la generación de csv
 ```
-ruby app.rd
+ruby app.rb
 ```
 Al rellenar los inputs pedidos generará una serie de ficheros .csv con los datos
 
